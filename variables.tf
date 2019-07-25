@@ -22,7 +22,7 @@ variable "authorization" {
   type = "string"
 }
 
-variable "lambda_fuction_arn" {
+variable "lambda_function_arn" {
   type = "string"
 }
 
